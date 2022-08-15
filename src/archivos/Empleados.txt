@@ -1,0 +1,2 @@
+Roberto,Flores,Hernandez,7334356,Cajero,123.545,1,EmpHecFlo,Inpuntual,1234
+Jhonatan,Ocadiz,Cuevas,7224567,Ventas,10000.0,2,EmpJhoOca,Ninguna,1234

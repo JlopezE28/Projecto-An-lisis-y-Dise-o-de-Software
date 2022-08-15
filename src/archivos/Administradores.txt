@@ -1,0 +1,2 @@
+Camila,Cuevas,Ocadiz,7234356,Directivo,6500.0,2,AdminCamGon,Puntual,1234
+Ernesto,Gonzalez,Alvarez,7224567, Ventas,8000.0,3,AdminErnGon,Ninguna,nini

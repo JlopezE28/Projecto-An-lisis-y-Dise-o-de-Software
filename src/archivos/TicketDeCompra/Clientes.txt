@@ -1,0 +1,3 @@
+Jose,Perez,Reyes,72234568,joser@gmail.com,123,Frecuente,
+Maria,Perez,Estrada,722091245,mariestrcom,8901,Frecuente,
+Camila,Gonzalez,Alvarez,72245665,camilagonazalez@gmail.com,45,General,
