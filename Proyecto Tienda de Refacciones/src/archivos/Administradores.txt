@@ -1,0 +1,2 @@
+Camila,Gonzalez,Alvarez,7234356,Directivo,3546.0,2,AdminCamGon,Puntual,1234
+Ernesto,Gonzalez,Diaz,733567,Ventas,7845.23,2,AdminErnGon,Ninguna,nini

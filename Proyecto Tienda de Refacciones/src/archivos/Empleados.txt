@@ -1,0 +1,2 @@
+Roberto,Flores,Hernandez,7334356,Cajero,123.545,1,EmpHecFlo,Inpuntual,1234
+Maria,Aguilar,Hernandez,8334567,Cajera,8000.0,2,EmpMarAgu,Ninguna,empleada

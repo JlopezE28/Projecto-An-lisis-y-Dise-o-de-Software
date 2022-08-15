@@ -1,0 +1,4 @@
+Jose,Zepeda,Reyes,72234568,joser@gmail.com,123,General,
+Maria,Perez,Estrada,722091245,mariestrcom,8901,Frecuente,
+Jhonathan,Ocadiz,Cuevas,7332345,jhonoc@gmail.com,75,General,
+Camila,Alvarez,Alvarez,72245665,camilagonazalez@gmail.com,45,Frecuente,

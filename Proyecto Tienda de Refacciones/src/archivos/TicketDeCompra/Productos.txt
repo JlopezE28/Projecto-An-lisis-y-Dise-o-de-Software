@@ -1,0 +1,8 @@
+45,1,Caja de direccion Hidraulca Dodge Chrysle,236.96,
+45,1,Amortiguador Trasero GMC,220.59,
+45,1,Junta lado Rueda Nissan Tsuru III,142.59,
+45,1,Baleros Del. Izq. Der. Chevy,236.96,
+45,1,Filtro de Aire BMW,220.59,
+45,1,Junta lado Rueda Nissan Tsuru III,142.59,
+123,1,Caja de direccion Hidraulca Dodge Chrysle,920.6,
+123,5,Tornillo estabilizador Renault,10967.35,
